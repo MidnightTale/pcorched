@@ -1,0 +1,4 @@
+name: scorched
+version: '${version}'
+main: net.hynse.scorched.Scorched
+api-version: '1.20'
